@@ -1,4 +1,4 @@
-# Landing Page → Cadastro de Parceiros → Login
+# Landing Page → Cadastro de Parceiros → Login → Listagem de Parceiros
 
 ---
 
@@ -164,7 +164,8 @@ Defina de acordo com as diretrizes do curso (ex.: MIT) ou mantenha “All Rights
 
 ## Resultado
 
-![alt text](assets/image.png)
-
 ![alt text](assets/image-1.png)
 
+![alt text](assets/image-2.png)
+
+![alt text](assets/image-3.png)
